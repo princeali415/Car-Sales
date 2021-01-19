@@ -6,6 +6,12 @@ import AdditionalFeatures from './components/AdditionalFeatures';
 import Total from './components/Total';
 import { connect } from 'react-redux';
 
+// Steps ===>
+
+// Set up "empty" reducer and initial state 👉 Set up store and Provider 👉
+// Connect components 👉 Add events and event handlers in UI 👉 Build action creators 👉
+// write the reducer logic for the actions 👉 Rinse and repeat
+
 const App = (props) => {
 
   return (
